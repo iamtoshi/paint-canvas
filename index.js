@@ -6,7 +6,7 @@ const rect = {
 };
 
 // default state
-let isPenDown = false;
+let isPenDown = true;
 // default colour
 let drawColor = "cd0000";
 
